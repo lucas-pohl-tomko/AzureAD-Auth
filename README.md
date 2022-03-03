@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vanilla JavaScript single-page application (SPA) using MSAL.js to authorize users for calling a protected web API on Azure AD
 
  1. [Overview](#overview)
@@ -357,3 +358,25 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+=======
+# AzureAD-Auth
+Followed the microsoft tutorial for authentication with Azure AD (Only works if you create an app in AzureAD and do the proper config)
+
+## Project setup
+
+```
+cd SPA
+npm install
+cd API
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+cd SPA
+npm start
+cd API
+npm start
+```
+
+>>>>>>> 73ed235da7f81d2f85405b013af4b372e4179013
