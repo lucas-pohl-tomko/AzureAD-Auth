@@ -17,5 +17,3 @@ npm start
 cd API
 npm start
 ```
-
->>>>>>> 73ed235da7f81d2f85405b013af4b372e4179013
